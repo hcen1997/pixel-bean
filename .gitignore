@@ -1,0 +1,32 @@
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.apk
+
+# Build files
+*.o
+*.exe
+*.bin
+*.obj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
+*.cache
