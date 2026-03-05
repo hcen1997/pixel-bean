@@ -20,6 +20,7 @@
 - G代码解析
 - 坐标运动控制
 - 单色落豆逻辑
+- 豆子绘画：https://www.beadscanvas.com/zh/editor
 
 ## 计划升级
 - 多色供料
